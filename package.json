@@ -11,7 +11,7 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "@strapi/plugin-documentation": "4.15.0",
+    "@strapi/plugin-documentation": "https://gitpkg.now.sh/strapi/strapi/packages/plugins/documentation?8565bc18c29a30dbf0d3f023c32455702324dd5c",
     "@strapi/plugin-i18n": "4.15.0",
     "@strapi/plugin-users-permissions": "4.15.0",
     "@strapi/strapi": "4.15.0",
